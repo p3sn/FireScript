@@ -10,11 +10,7 @@ Please **do** comment on it ;-)
 Read the medium article and provide feedback.
 
 ## If you are familiar with Apps Script
-* Load the following library / resource with this ID:
-1i5ibIfXYojIR_o6vk7RCvub7AdlxdxJ6TE8j5mOOiwAeUnxXjgc1FLcU
-* In the toolbar, select View > Show manifest file
-* On the left side, a file named appsscript.json should be visible. In this file you have to add oauthScopes:
-	```"oauthScopes": ["https://www.googleapis.com/auth/script.external_request", "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/firebase.database"]```
-	
-* Check out the example.gs file in this repository and copy/paste it in your Google Apps project
-* Change the project id and you are ready to go!
+* Open https://script.google.com/d/1HRoTIlyNCGfjodUtc3sDczqo-svSqTrytLVjdfY3CKly0G3avpOUBNK_/edit?usp=sharing
+* Make a copy: File >> Make a copy...
+* Read the comments, or just try to run the function init() and solve the errors. 
+* Happy coding!
