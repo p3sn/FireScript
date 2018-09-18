@@ -3,7 +3,7 @@ Hi,
 Thanks for your interest in FireScript. A Google Apps library for Firebase with nearly the same syntax as the NodeJS Admin SDK.
 
 My draft article on Medium is available here:
-https://medium.com/p/cbf8b2cef9c3/edit   
+https://medium.com/@pdriessen.nl/firescript-a-firebase-admin-library-for-google-apps-script-cbf8b2cef9c3  
 Please **do** comment on it ;-)
 
 ## If you are not familiar with Apps Script
